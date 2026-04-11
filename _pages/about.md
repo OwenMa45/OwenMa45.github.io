@@ -1,11 +1,12 @@
 ---
 permalink: /
-title: "Ruiqi Ma(马睿琦)"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+Hi, I’m Ruiqi Ma, a second-year master’s student at Zhejiang University, College of Information Science and Electronic Engineering(ISEE). Before that, I [] my bachelor degree at ISEE, ZJU. My interests include world model, multi-modal large language model, video generation and diffusion model.[research interests, e.g. machine learning, computer vision, natural language processing, reinforcement learning], and I enjoy building projects that combine theory with real-world applications. I am currently working on [your current focus, thesis, research topic, or project area]. Through my GitHub, I share my academic projects, personal experiments, and ideas as I continue learning and exploring AI.
 
 About me
 ======
