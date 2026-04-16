@@ -6,9 +6,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi, I’m Ruiqi Ma, a second-year master’s student at Zhejiang University, College of Information Science and Electronic Engineering(ISEE). Before that, I [] my bachelor degree at ISEE, ZJU. My interests include world model, multi-modal large language model, video generation and diffusion model.[research interests, e.g. machine learning, computer vision, natural language processing, reinforcement learning], and I enjoy building projects that combine theory with real-world applications. I am currently working on [your current focus, thesis, research topic, or project area]. Through my GitHub, I share my academic projects, personal experiments, and ideas as I continue learning and exploring AI.
+Hi, I’m Ruiqi Ma, a second-year master’s student at Zhejiang University, College of Information Science and Electronic Engineering(ISEE). Before that, I obtained my bachelor degree at ISEE, ZJU. My interests include world model, multi-modal large language model, video generation and diffusion model.
+……
 
-About me
+Publication
 ======
 I'm a graduate student 
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
