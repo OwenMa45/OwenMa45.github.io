@@ -18,10 +18,10 @@ Experience
 ======
 -*2020.09 ~ 2024.06*, Zhejiang University, College of Information Science and Eletronic Engineering, Bachelor degree
 -*2024.09 ~ 2027.03(Expected)*, Zhejiang University, College of Information Science and Eletronic Engineering, Master degree, VLSI Lab, supervised by [Liang Zhao](https://person.zju.edu.cn/liangzhao)
--*2025.10 ~ 2026.04*, Insititute of Automation, CAS && Shanda Corp. Tianqiao and Chrissy Chen Institute, Intern, supervised by [Guoqi Li](https://casialiguoqi.github.io/)
+-*2025.10 ~ 2026.04*, Insititute of Automation, CAS && Shanda Corp. Spiking Intelligence Lab, supervised by [Guoqi Li](https://casialiguoqi.github.io/)
 
 
 
-*Publication
-*======
+#Publication
+#======
 
