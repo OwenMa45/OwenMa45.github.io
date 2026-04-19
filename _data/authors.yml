@@ -1,18 +1,21 @@
 # Authors
 
 Name Name:
-  name        : "Name Name"
-  uri         : "https://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
+  name        : "Ruiqi Ma(马睿琦)"
+  location    : "Hangzhou"
+  employer    : "Zhejiang University"
+  github      : "https://github.com/OwenMa45"
+  email       : "owenma45@zju.com"
+  bio         : "Looking for internship opportunities:)"
   avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
 
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+ # twitter     : "name"
+ # google_plus : "Name"
+
+#Name2 Name2:
+#  name        : "Name2 Name2"
+#  email       : "name2@name2.com"
+#  bio         : "I ordered what?"
+#  avatar      : "bio-photo.jpg"
+#  twitter     : "name2"
+#  google_plus : "Name"
