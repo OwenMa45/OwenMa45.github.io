@@ -23,7 +23,7 @@ repository               : "https://github.com/OwenMa45"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "avatar.png"
+  avatar           : "avatar.jpg"
   name             : "Ruiqi Ma(马睿琦)"
   pronouns         : # example: "she/her"  
   bio              : "Let AI generates the WORLD:)"
