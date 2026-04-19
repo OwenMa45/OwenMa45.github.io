@@ -6,6 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
+
+
 About me
 ======
 Hi, I’m Ruiqi Ma, a second-year master’s student at [College of Information Science and Electronic Engineering(ISEE)](http://www.isee.zju.edu.cn/iseenglish/main.htm), Zhejiang University. Before that, I obtained my bachelor degree in ISEE, ZJU in 2024. My interests include **diffusion model**, **generative model**(especially video generation), and world model. 
